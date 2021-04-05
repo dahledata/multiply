@@ -1,2 +1,2 @@
 # multiply
-Web page to practice the large mutliplication table
+Vue + Typescript based Web app to practice the large multiplication table.
